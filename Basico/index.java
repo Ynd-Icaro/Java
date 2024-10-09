@@ -1,0 +1,6 @@
+package Basico;
+
+class index {
+
+    
+}
